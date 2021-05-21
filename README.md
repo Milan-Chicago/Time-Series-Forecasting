@@ -13,4 +13,4 @@
 ## Technologies
 Projects are created with:
 * Python 3.7
-* 
+
