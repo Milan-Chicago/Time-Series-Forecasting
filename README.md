@@ -1,5 +1,8 @@
 # Time-Series-Forecasting, RNNs and Facebook's Profit
 
+## General Info:
+Learn how to use Python, Pandas, Numpy, RNNs, Facebook's Profit and Statsmodels for Time Series Forecasting and Analysis!
+
 ## Table of Contents:
 
 * Pandas for Data Manipulation
